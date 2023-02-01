@@ -1,1 +1,2 @@
-- [@Dhruv_Singh_Chauhan](https://github.com/dhruvchauhan2405)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/dhruv2405)
