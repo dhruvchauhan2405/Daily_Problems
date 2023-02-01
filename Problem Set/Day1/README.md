@@ -1,4 +1,4 @@
-# Day1-2nd February
+# Day 1 - 2nd February
 
 | Question        | Difficulty           | Status  |
 | ------------- |:-------------:| -----:|
