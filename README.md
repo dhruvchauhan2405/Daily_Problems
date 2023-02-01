@@ -1,11 +1,11 @@
 #Daily Problems
 
 Collaborators
-1. Dhruv Singh Chauhan
+**1. Dhruv Singh Chauhan**
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dhruv2405)
 
-2. Ansh Pahwa
+**2. Ansh Pahwa**
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ansh04012020)
 
