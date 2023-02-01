@@ -7,6 +7,8 @@ Collaborators
 
 2. Ansh Pahwa
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ansh04012020)
+
 
 ## Authors
 
