@@ -4,3 +4,4 @@
 
 ## Completed Questions!
 1. Two Sum
+9. Palindrome Number
