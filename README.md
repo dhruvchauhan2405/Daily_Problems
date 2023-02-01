@@ -1,6 +1,6 @@
-#Daily Problems
+# Daily Problems
 
-Collaborators
+## Collaborators
 
 **1. Dhruv Singh Chauhan**
 
