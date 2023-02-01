@@ -28,9 +28,9 @@ Output: 4
 ```
 
 ###### Constrains:
-```
+
 ⋅⋅* 1 <= nums.length <= 104
 ⋅⋅* -104 <= nums[i] <= 104
 ⋅⋅* nums contains distinct values sorted in ascending order.
 ⋅⋅* -104 <= target <= 104
-```
+
