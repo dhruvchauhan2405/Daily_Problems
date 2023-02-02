@@ -19,3 +19,10 @@ Connect to me on LinkedIn or mail me @dhruvsingh2405@gmail.com
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ansh04012020)
+
+**2. Ahmad**
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tufail-habib-b80656247/)
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ahma_d)
