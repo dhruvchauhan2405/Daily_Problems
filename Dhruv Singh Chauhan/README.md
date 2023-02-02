@@ -1,7 +1,6 @@
 
 ## My Leetcode Status
-![Leetcode Stats](https://leetcard.jacoblin.cool/dhruv2405?theme=unicorn)
-
+![](https://leetcard.jacoblin.cool/jacoblincool?ext=activity)
 Day 1 ✅
 
 
