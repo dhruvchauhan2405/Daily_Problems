@@ -41,21 +41,15 @@ Connect to me on LinkedIn or mail me @dhruvsingh2405@gmail.com
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ASingh786)
 
-**6. Akanksha Tripathi**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-tripathi-54887221a)
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/akankshatripathi0609)
-
-**7. Amit kumar**
+**6. Amit kumar**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-b737361b4)
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AMIT00007)
 
-**8. Vishal Chauhan**
+**7. Vishal Chauhan**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-chauhan-b39823224/)
 
@@ -69,7 +63,7 @@ Connect to me on LinkedIn or mail me @dhruvsingh2405@gmail.com
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/co20335)
 
-**10. Vatsal Gupta**
+**9. Vatsal Gupta**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-gupta-446620205)
 
