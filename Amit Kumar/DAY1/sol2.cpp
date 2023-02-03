@@ -1,25 +1,17 @@
-#include<iostream>
-using namespace std;
-int main(){
-    int n;
-    int k;
-    cin>>n;
-    cin>>k;
-    int arr[n];
-    int count=0;
-    for(int i=0;i<n;i++){
-        cin>>arr[i];
+class Solution {
+public:
+    int searchInsert(vector<int>& nums, int target) {
+        int i;
+        int n=nums.size();
+        for(i=0;i<n;i++){
+        if(nums[i]==target){    
+        
+        return i;
+        }
+        else if(nums[i]>target){
+            return i;
+        }  
     }
-    for(int i=0;i<n;i++){
-    if(arr[i]==k){
-        cout<<i;
-      
+    return i;
     }
-    else if(k>arr[i]){
-        count++;
-    }
-    }
-    cout<<count;
-    return 0;
-}
-
+};
