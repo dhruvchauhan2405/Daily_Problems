@@ -27,7 +27,7 @@ Connect to me on LinkedIn or mail me @dhruvsingh2405@gmail.com
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ahma_d)
 
-**4. Rajesh Rakshit **
+**4. Rajesh Rakshit**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-rakshit-0b343615a)
 
