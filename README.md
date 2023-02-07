@@ -13,29 +13,17 @@ Connect to me on LinkedIn or mail me @dhruvsingh2405@gmail.com
 
 **3. Ahmad**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tufail-habib-b80656247/)
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/ahma_d)
-
 **4. Rajesh Rakshit **
-
 
 **5. Aditya Singh**
 
-
 **6. Akanksha Tripathi**
-
 
 **7. Amit kumar**
 
-
 **8. Vishal Chauhan**
 
-
-
 **9. Nirbhik Kakkar**
-
 
 **10. Vatsal Gupta**
 
