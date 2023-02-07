@@ -9,16 +9,7 @@ Connect to me on LinkedIn or mail me @dhruvsingh2405@gmail.com
 
 **1. Dhruv Singh Chauhan**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-chauhan-61047319a/)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/dhruv2405)
-
 **2. Ansh Pahwa**
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-pahwa-b666b3206/)
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/ansh04012020)
 
 **3. Ahmad**
 
@@ -29,49 +20,23 @@ Connect to me on LinkedIn or mail me @dhruvsingh2405@gmail.com
 
 **4. Rajesh Rakshit **
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-rakshit-0b343615a)
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/decode_1998)
 
 **5. Aditya Singh**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-b410851b3)
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/ASingh786)
 
 **6. Akanksha Tripathi**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-tripathi-54887221a)
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/akankshatripathi0609)
 
 **7. Amit kumar**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-b737361b4)
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/AMIT00007)
 
 **8. Vishal Chauhan**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-chauhan-b39823224/)
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/visshxl)
 
 **9. Nirbhik Kakkar**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirbhik-kakkar)
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/co20335)
 
 **10. Vatsal Gupta**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-gupta-446620205)
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/vatsalg2002)
