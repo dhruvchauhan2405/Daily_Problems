@@ -13,7 +13,7 @@ Connect to me on LinkedIn or mail me @dhruvsingh2405@gmail.com
 
 **3. Ahmad**
 
-**4. Rajesh Rakshit **
+**4. Rajesh Rakshit**
 
 **5. Aditya Singh**
 
