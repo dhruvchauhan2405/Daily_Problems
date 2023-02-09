@@ -1,0 +1,30 @@
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var lengthOfLongestSubstring = function(s) {
+    let arr=[]
+    
+  
+    for(let i=0;i<s.length;i++){
+    let substr='';
+    substr=substr+s[i]
+        for(let j=i+1;j<s.length;j++){
+            if(substr.includes(s[j])){
+                break;
+            }
+            else{
+             substr =   substr+s[j]
+            }
+        }
+        arr.push(substr);
+    }
+
+    let longestSubstr=arr.reduce((acc,curr)=>{
+        // console.log(curr)
+        curr.length>acc?acc=curr.length:curr=curr
+        return acc
+    },0)
+
+    return longestSubstr;
+};
