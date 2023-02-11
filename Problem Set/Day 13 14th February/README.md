@@ -1,6 +1,6 @@
-# Day 8 - 9th February
+# Day 13 - 14th February
 
-| Question                                                                                                                                                 | Difficulty | Status |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | -----: |
-| [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/ "1071. Greatest Common Divisor of Strings") |    Easy    | Yes/No |
-| [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/ "953. Verifying an Alien Dictionary")                  |    Easy    | Yes/No |
+| Question                                                                                                                            | Difficulty | Status |
+| ----------------------------------------------------------------------------------------------------------------------------------- | :--------: | -----: |
+| [1626. Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/ "1626. Best Team With No Conflicts") |   Medium   | Yes/No |
+| [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/ "196. Delete Duplicate Emails")               |    Easy    | Yes/No |

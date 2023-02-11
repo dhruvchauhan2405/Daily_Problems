@@ -1,6 +1,6 @@
-# Day 8 - 9th February
+# Day 12 - 13th February
 
-| Question                                                                                                                                                 | Difficulty | Status |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | -----: |
-| [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/ "1071. Greatest Common Divisor of Strings") |    Easy    | Yes/No |
-| [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/ "953. Verifying an Alien Dictionary")                  |    Easy    | Yes/No |
+| Question                                                                                                                               | Difficulty | Status |
+| -------------------------------------------------------------------------------------------------------------------------------------- | :--------: | -----: |
+| [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/ "1162. As Far from Land as Possible") |   Medium   | Yes/No |
+| [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/ "384. Shuffle an Array")                                       |   Medium   | Yes/No |

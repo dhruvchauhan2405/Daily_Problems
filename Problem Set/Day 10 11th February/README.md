@@ -1,6 +1,6 @@
-# Day 8 - 9th February
+# Day 10 - 11th February
 
-| Question                                                                                                                                                 | Difficulty | Status |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | -----: |
-| [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/ "1071. Greatest Common Divisor of Strings") |    Easy    | Yes/No |
-| [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/ "953. Verifying an Alien Dictionary")                  |    Easy    | Yes/No |
+| Question                                                                                                                                                          | Difficulty | Status |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | -----: |
+| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/ "438. Find All Anagrams in a String")                           |   Meduim   | Yes/No |
+| [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/ "1129. Shortest Path with Alternating Colors") |   Medium   | Yes/No |

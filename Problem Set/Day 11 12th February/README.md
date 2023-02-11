@@ -1,6 +1,6 @@
-# Day 8 - 9th February
+# Day 11 - 12th February
 
-| Question                                                                                                                                                 | Difficulty | Status |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | -----: |
-| [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/ "1071. Greatest Common Divisor of Strings") |    Easy    | Yes/No |
-| [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/ "953. Verifying an Alien Dictionary")                  |    Easy    | Yes/No |
+| Question                                                                                               | Difficulty | Status |
+| ------------------------------------------------------------------------------------------------------ | :--------: | -----: |
+| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/ "904. Fruit Into Baskets") |   Medium   | Yes/No |
+| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/ "45. Jump Game II")                     |    Easy    | Yes/No |
