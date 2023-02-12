@@ -1,3 +1,7 @@
+/*
+* as per problem we need to find only non matching numbers , so find and store them at start of the array
+* */
+
 class Solution {
     public int removeElement(int[] nums, int val) {
         int count =0;
