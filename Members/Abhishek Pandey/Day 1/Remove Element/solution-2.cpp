@@ -1,4 +1,4 @@
-//Leetcode Problem - 27
+//Leetcode Problem 27 - Remove Element
 
 class Solution {
 public:
